@@ -1,7 +1,7 @@
 Embed Bot
 ===
 
-##config.json 파일 셋팅 및 공지 내용 변경하는법.##
+## config.json 파일 셋팅 및 공지 내용 변경하는법.
 
 token - 이 부분엔 봇의 토큰을 입력해 주세요. 
 https://discord.com/developers/applications 이 링크로 들어가 'New Application' 을 통해 어플리케이션을 만든 후 
