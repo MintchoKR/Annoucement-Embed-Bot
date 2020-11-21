@@ -1,4 +1,5 @@
-# Annoucement-Embed-Bot
+Embed Bot
+===
 
 config.json 파일 셋팅 및 공지 내용 변경하는법.\n
 \n
