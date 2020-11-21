@@ -1,18 +1,18 @@
 Embed Bot
 ===
 
-config.json 파일 셋팅 및 공지 내용 변경하는법.\n
-\n
-token - 이 부분엔 봇의 토큰을 입력해 주세요. \n
-https://discord.com/developers/applications 이 링크로 들어가 'New Application' 을 통해 어플리케이션을 만든 후 \n
-bot 으로 가셔서 Add Bot 을 누르시면 복사가 가능한 토큰을 얻으실 수 있습니다.\n
-\n
-msg1, msg3, msg5 는 내용의 제목을 써 넣으시면 됩니다.\n
-ex) "msg1": "수정사항",\n
-\n
+##config.json 파일 셋팅 및 공지 내용 변경하는법.
+===
+token - 이 부분엔 봇의 토큰을 입력해 주세요. 
+https://discord.com/developers/applications 이 링크로 들어가 'New Application' 을 통해 어플리케이션을 만든 후 
+bot 으로 가셔서 Add Bot 을 누르시면 복사가 가능한 토큰을 얻으실 수 있습니다.
+
+msg1, msg3, msg5 는 내용의 제목을 써 넣으시면 됩니다.
+```ex) "msg1": "수정사항",```
+===
 msg2, msg4, msg6 에는 내용을 적어주세요.\n
-ex) "msg2": "이번의 변경사항은 OOOOOOOO(이)가 수정되었습니다.",\n
-\n
+```ex) "msg2": "이번의 변경사항은 OOOOOOOO(이)가 수정되었습니다.",```
+===
 col 이 부분에는 헥사코드를 입력해 주세요.\n
 ex) "col": "#7fffd4",\n
 \n
