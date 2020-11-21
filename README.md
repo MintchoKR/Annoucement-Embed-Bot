@@ -1,5 +1,11 @@
 Embed Bot
 ===
+## 순서
+discordjs.bat 파일을 먼저 실행 시켜 주세요! 그래야 모듈이 설치됩니다.
+
+그 다음 config.json을 아래와 같은 구조로 수정해주세요.
+
+그리고 start.bat 을 실행시켜 주세요.
 
 ## config.json 파일 셋팅 및 공지 내용 변경하는법.
 
