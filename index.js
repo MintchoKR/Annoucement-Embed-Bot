@@ -5,7 +5,6 @@ const BotName = "시험작";
 
 client.on("ready", () => {
     console.log(BotName + "봇 작동");
-    client.user.setActivity('공지봇 예시 입니다.', { type: 'PLAYING' });
 });
 
 client.on('message', (msg) => {
