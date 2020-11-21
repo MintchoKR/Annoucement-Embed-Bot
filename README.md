@@ -54,6 +54,6 @@ prefix는 맨 마지막 줄이므로 끝에 붙는 ' , ' 표시가 붙지 않습
 }
 ```
 
-![Alt text](/img/)
+![Alt text](https://github.com/MintchoKR/Annoucement-Embed-Bot/blob/main/img/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202020-11-21%20094408.jpg)
 
 
